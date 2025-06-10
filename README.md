@@ -140,8 +140,8 @@ pnpm db:reset     # 重置数据库
 ```
 aiia-saas/
 ├── app/                    # Next.js 15 App Router
-│   ├── (auth)/            # 认证相关页面
-│   ├── (dashboard)/       # 后台管理页面
+│   ├── auth/            # 认证相关页面
+│   ├── dashboard/       # 后台管理页面
 │   ├── api/               # API 路由
 │   └── globals.css        # 全局样式
 ├── components/            # 可复用组件
